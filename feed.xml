@@ -2,7 +2,7 @@
 <rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title><![CDATA[Frogs For Chatter]]></title>
-        <link>https://rss.com/podcasts/frogsforchatter/</link>
+        <link>https://jdwoj5.github.io/podcast-one/feed.xml</link>
         <atom:link href="https://jdwoj5.github.io/podcast-one/feed.xml" rel="self" type="application/rss+xml"></atom:link>
         <description><![CDATA[Members of the Frogs For Arson group come together and chat about different topics.]]></description>
         <language>en-us</language>
@@ -12,7 +12,7 @@
         <image>
             <url>https://assets.rss.com/images/no-cover-1400.jpg</url>
             <title>Frogs For Chatter</title>
-            <link>https://www.tiktok.com/@germaphobia/</link>
+            <link>https://jdwoj5.github.io/podcast-one/</link>
         </image>
         <itunes:summary><![CDATA[Members of the Frogs For Arson group come together and chat about different topics.]]></itunes:summary>
         <podcast:locked owner="frogsforarson@gmail.com">No</podcast:locked>
