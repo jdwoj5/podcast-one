@@ -3,17 +3,16 @@
     <channel>
         <title><![CDATA[Frogs For Chatter]]></title>
         <link>https://rss.com/podcasts/frogsforchatter/</link>
-        <atom:link href="https://media.rss.com/frogsforchatter/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+        <atom:link href="https://jdwoj5.github.io/podcast-one/feed.xml" rel="self" type="application/rss+xml"></atom:link>
         <description><![CDATA[Members of the Frogs For Arson group come together and chat about different topics.]]></description>
-        <generator>RSS.com</generator>
-        <lastBuildDate>Tue, 02 Feb 2021 23:58:25 +0000</lastBuildDate>
-        <language>en</language>
+        <language>en-us</language>
+        <pubDate>Tue, 02 Feb 2021 23:58:25 +0000</pubDate>
         <copyright><![CDATA[Frogs For Arson 2020]]></copyright>
         <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"/>
         <image>
             <url>https://assets.rss.com/images/no-cover-1400.jpg</url>
             <title>Frogs For Chatter</title>
-            <link>https://rss.com/podcasts/frogsforchatter</link>
+            <link>https://www.tiktok.com/@germaphobia/</link>
         </image>
         <itunes:summary><![CDATA[Members of the Frogs For Arson group come together and chat about different topics.]]></itunes:summary>
         <podcast:locked owner="frogsforarson@gmail.com">No</podcast:locked>
@@ -22,7 +21,7 @@
             <itunes:name>Frogs For Arson</itunes:name>
             <itunes:email>frogsforarson@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>no</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <itunes:category text="Leisure"></itunes:category>
         <itunes:category text="Music"></itunes:category>
@@ -32,7 +31,6 @@
             <itunes:title><![CDATA[Episode 1: Rat Bucket Flag]]></itunes:title>
             <itunes:summary>In this episode, Jayden and Jescyka discuss a recent KPop scandal, and the tiktok algorithm.</itunes:summary>
             <description><![CDATA[<p>In this episode, Jayden and Jescyka discuss a recent KPop scandal, and the tiktok algorithm.</p>]]></description>
-            <link>https://rss.com/podcasts/frogsforchatter/129696</link>
             <enclosure url="https://media.rss.com/frogsforchatter/20210202_235807_820871b113eed09989e270f392b5513d.mp3" length="45437578" type="audio/mp3"></enclosure>
             <guid isPermaLink="false">e04b1aa8-0ffa-8d4f-8853-117f364cee4c</guid>
             <itunes:image href="https://assets.rss.com/images/no-cover-1400.jpg"></itunes:image>
